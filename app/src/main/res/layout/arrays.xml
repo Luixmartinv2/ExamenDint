@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="coches">
+        <item>moto</item>
+        <item>coche</item>
+        <item>camion</item>
+    </string-array>
+
+    <string-array name="colores">
+        <item>Blanco</item>
+        <item>negro</item>
+        <item>azul</item>
+        <item>rojo</item>
+        <item>verde</item>
+        <item>amarillo</item>
+    </string-array>
+</resources>
